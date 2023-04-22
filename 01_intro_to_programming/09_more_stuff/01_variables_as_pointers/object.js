@@ -5,4 +5,4 @@ let obj = {
 obj = {
   b: 2
 }
-console.log(obj)
+console.log(obj);

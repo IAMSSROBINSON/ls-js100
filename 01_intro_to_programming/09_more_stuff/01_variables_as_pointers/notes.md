@@ -79,8 +79,8 @@ let c = [1, 2]; // [1, 2]
 let d = c; // [1, 2]
 c = [3, 4]; // [3, 4]
 
-console.log("c:", c) // "c: [3, 4]"
-console.log("d:", d) // "d: [1, 2]"
+console.log("c:", c); // "c: [3, 4]"
+console.log("d:", d); // "d: [1, 2]"
 ```
 
 Variable `c` is declared at memory address: 0x1234 and initialized to array object value: [1, 2] at memory address: 0x5789. Variable `c` is a pointer and stores the address to the array: 0x5789 object at its own address: 0x1234.

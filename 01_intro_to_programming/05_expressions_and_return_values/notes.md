@@ -1,6 +1,6 @@
 # Expressions and Return Values
 
-When using Node, expressions are typed into the prompt. Expressions are anything JavaScript can evaluate to a value using the process of computing that can then be captured and used in code. Any value is essentially an expression that can evaluate to itself and thus operators are not always required. 
+When using Node, expressions are typed into the prompt. Expressions are anything JavaScript can evaluate to a value that can then be captured and used in code. Any value is essentially an expression that can evaluate to itself and thus operators are not always required. 
 
 <br>
 

@@ -1,0 +1,3 @@
+const INTEREST_RATE = 0.0783;
+
+console.log("INTEREST RATE:", INTEREST_RATE);

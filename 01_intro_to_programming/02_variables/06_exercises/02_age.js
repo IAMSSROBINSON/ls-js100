@@ -28,7 +28,7 @@ expression value is inserted into the resulting string printed to the console / 
 
 The expression is anything that JavaScript can evaluate to a value that can be captured and used in the code and thus the value of the variables referenced is used to perform addition using the arithmetic + operator to add the values of both operand expressions for a final expression value. This shows that template literals have the ability to use expression values in a resulting string literal and also they operations can be performed within template literals to the same effect.
 
-On lines 16, 17 and 18 these principles are repeated with adjustments to the expression to print differing results:
+On lines 16, 17 and 18 these principles are repeated with adjustments to the variables used in the expressions to print differing results:
 
 In 10 years, you will be 30 years old.
 In 20 years, you will be 40 years old.

@@ -22,7 +22,7 @@ On line 9 the log method of the console object is invoked and an interpolated st
 
 These steps are repeated on lines 10 and 11 with small adjustments to the string literal that will change the resulting string printed but not change the interpolated expression value because they make use of the same interpolated expression.
 
-The console / terminal will print these strings:
+These strings are printed to the console / terminal window:
 
 Good Morning, Victor.
 Good Afternoon, Victor.

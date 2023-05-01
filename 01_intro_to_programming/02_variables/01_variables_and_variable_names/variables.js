@@ -2,6 +2,7 @@ let answer = 41;
 answer = 42;
 console.log(answer);
 
+
 /*
 
 On line 1 we use the let keyword to declare a globally scoped variable named: answer (this tells JavaScript to allocate space in the computer memory for a value to be stored using the named variable as a reference to that value) and then the assignment operator (=) is used to initialize the variable with an integer primitive number value of: 41 (the value of 41 is thereby stored at the same memory address that the variable answer was allocated).

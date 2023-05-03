@@ -6,7 +6,7 @@ Functions are a procedure that allows for extraction of some code as a separate 
 
 ## Defining a function
 
-The `function` keyword is used to defined a function and is followed up by the name of the function. 
+The `function` keyword is used to define a function and is followed up by the name of the function. 
 
 The function name (which is also a variable who's value is the function object) should be of legal JavaScript convention (camelCase) and should be idiomatic (understood by developers as a description of the functions purpose): `function printGreeting`.
 

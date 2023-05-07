@@ -53,5 +53,3 @@ Using the + operator to combine two strings and concatenate their values togethe
 When a number is coerced into a string and used as a string value.
 
 When using the + operator if either operand is a string then the other will attempt to be coerced into a string.
-
-If any

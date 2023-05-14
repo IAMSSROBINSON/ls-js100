@@ -1,7 +1,5 @@
 # Other Array Methods
 
-
-
 <br>
 
 ## `.includes()`

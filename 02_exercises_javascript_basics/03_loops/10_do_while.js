@@ -17,6 +17,6 @@ do {
 
 /*
 
-A doWhile loop will execute the execution block at least once before it evaluates the conditional expression of the while clause to see if it should iterate again. This is in contract to a while loop who's condition expression must first evaluate to a truthy value before it executes the first iteration of the execution block.
+A doWhile loop will execute the execution block at least once before it evaluates the comparison expression of the while clause to see if it should iterate again. This is in contract to a while loop who's comparison expression must first evaluate to a truthy value before it executes the first iteration of the execution block.
 
 */
